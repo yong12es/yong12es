@@ -17,14 +17,13 @@
         <strong>DAM</strong><br>09/22 - 06/24<br>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
+       <img src="imagenes/logoPython.png" width="90" alt="TEC.png"/><br>
         <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
         <strong>IA & Big data</strong><br>07/24 - 01/25<br>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
+       <img src="imagenes/logoTailwind.png" height="90" alt="logoTailwind.png"/>
+       <img src="imagenes/logoJavascript.png" width="90" alt="logoJavascript.png"/><br>
         <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
         <strong>DAW</strong><br>01/25 - 07/25<br>
       </td>
