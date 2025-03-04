@@ -11,8 +11,8 @@
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="imagenes/logoCSharp.png" width="90" alt="UPS.png"/><br>
+        <img src="imagenes/logoJava.png" height="90" alt="logoJava.png"/>
+        <img src="imagenes/logoCSharp.png" width="90" alt="logoCSharp.png"/><br>
         <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
         <strong>DAM</strong><br>09/22 - 06/24<br>
       </td>
