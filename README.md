@@ -12,7 +12,7 @@
     <tr>
       <td align="center">
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
+        <img src="imagenes/logoCSharp.png" width="90" alt="UPS.png"/><br>
         <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
         <strong>DAM</strong><br>09/22 - 06/24<br>
       </td>
