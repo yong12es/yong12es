@@ -22,8 +22,8 @@
         <strong>IA & Big data</strong><br>07/24 - 01/25<br>
       </td>
       <td align="center" width=350px>
-        <img src="imagenes/logoJavascript.png" height="90" alt="logoJavascript.png"/>
-        <img src="imagenes/logoTailwind.png" height="90" alt="logoTailwind.png"/><br>
+        <img src="imagenes/logoJavascript.png" height="80" alt="logoJavascript.png"/>
+        <img src="imagenes/logoTailwind.png" height="100" alt="logoTailwind.png"/><br>
         <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
         <strong>DAW</strong><br>01/25 - 07/25<br>
       </td>
