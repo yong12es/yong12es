@@ -1,7 +1,7 @@
-<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Angel</h1>
 <span align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I'm+Angel;welcome+to+my+Github;Full+Stack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=welcome+to+my+Github;Full+Stack+Developer;)](https://git.io/typing-svg)
 <span/>
 
 <h2 align="left">📚 | Education</h2>
